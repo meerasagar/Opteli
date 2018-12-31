@@ -2,12 +2,16 @@ package com.test.Megneil.opteli;
 
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeClass;
 
 public class BaseClass {
 	public WebDriver driver;
+	public static Logger logger;
+	public String baseURL ="http://192.168.1.135//Developer1//Client/frmLogin.aspx";
 	@BeforeClass
 	public void setUp() throws Exception {
 		
@@ -24,5 +28,9 @@ driver = new FirefoxDriver();
 		driver.manage().window().maximize();
 
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		
+		logger = Logger.getLogger("BaseClass");
+		
+		PropertyConfigurator.configure("Log4j.properties");
 	}
 }

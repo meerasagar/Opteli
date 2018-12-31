@@ -16,7 +16,8 @@ public class appointmentReport extends BaseClass {
 	@Test
 	public void testAppointmentReport() throws InterruptedException {
 		try {
-			driver.get("http://192.168.1.135/Developer1/Client/frmLogin.aspx");
+			driver.get(baseURL);
+			logger.info("URL is opened");
 
 			//driver.get("http://opteli.com/Client/frmLogin.aspx");
 
@@ -28,16 +29,22 @@ public class appointmentReport extends BaseClass {
 			//JavascriptExecutor webdriver= (JavascriptExecutor)driver;
 			//webdriver.executeScript("document.getElementById('txtCompanyID').value='axpamtec';");
 			driver.findElement(By.xpath("//input[@id='txtCompanyID']")).sendKeys("axpamtec");
+			logger.info("Entered Client Id");
 
 			driver.findElement(By.id("txtUsername")).clear();
 
 			driver.findElement(By.id("txtUsername")).sendKeys("test1");
+			logger.info("Entered User Id");
 
 			driver.findElement(By.id("txtPassword")).clear();
 
 			driver.findElement(By.id("txtPassword")).sendKeys("test@123");
+			
+			logger.info("Entered Password");
 
 			driver.findElement(By.id("btnLogin")).click();
+			
+			logger.info("Clicked on Login button");
 
 			Thread.sleep(3000);
 
