@@ -1,4 +1,4 @@
-package com.test.Megneil.opteli;
+package com.test.Megneil.opteli.testcases;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,4 +1,4 @@
-package com.test.Megneil.opteli;
+package com.test.Megneil.opteli.testcases;
 import java.util.List;
 import org.testng.Reporter;
 import org.testng.annotations.*;

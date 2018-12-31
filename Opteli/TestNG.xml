@@ -4,7 +4,7 @@
 <suite name="optelitestngsuite">
 <test name="optelitestngtest">
 <classes>
-<class name ="com.test.Megneil.opteli.appointmentReport"></class>
+<class name ="com.test.Megneil.opteli.testcases.appointmentReport"></class>
 
 </classes>
 
