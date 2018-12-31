@@ -11,7 +11,7 @@ public class BaseClass {
 	@BeforeClass
 	public void setUp() throws Exception {
 		
-		System.out.println(System.getProperty("user.dir"));
+		//System.out.println(System.getProperty("user.dir"));
 
 System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/Drivers/geckodriver.exe");
 driver = new FirefoxDriver();
