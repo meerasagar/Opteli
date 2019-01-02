@@ -1,7 +1,9 @@
-package com.test.Megneil.opteli.testcases;
+package com.test.Megneil.opteli.testScripts;
 import java.util.List;
 import org.testng.Reporter;
 import org.testng.annotations.*;
+
+import com.test.Megneil.opteli.pageobjects.LoginPage;
 
 import org.openqa.selenium.*;
 
@@ -16,9 +18,34 @@ public class appointmentReport extends BaseClass {
 	@Test
 	public void testAppointmentReport() throws InterruptedException {
 		try {
+			
+//driver.findElement(By.cssSelector("span")).click();
+			
+			Thread.sleep(3000);
+
 			driver.get(baseURL);
 			logger.info("URL is opened");
+			
+			LoginPage lp = new LoginPage(driver);
+			
+			lp.clickOutLogin();
+			logger.info("Clicked on Login button to enter ClientID");
+			
+			lp.setClientID(ClientID);
+			logger.info("Entered ClientID");
 
+			lp.settxtUsername(Username);
+			logger.info("Entered UserName");
+			
+			lp.settxtPassword(password);
+			logger.info("Entered Password");
+			
+			Thread.sleep(3000);
+			
+			lp.clickSubmit();
+			logger.info("Clicked on Login button");
+			
+			/*
 			//driver.get("http://opteli.com/Client/frmLogin.aspx");
 
 			driver.findElement(By.cssSelector("span")).click();
@@ -47,7 +74,7 @@ public class appointmentReport extends BaseClass {
 			logger.info("Clicked on Login button");
 
 			Thread.sleep(3000);
-
+*/
 			// Alert alert = driver.switchTo().alert();
 			// alert.accept();
 			isAlertPresent();
@@ -83,7 +110,7 @@ public class appointmentReport extends BaseClass {
 			driver.findElement(By.linkText(Day)).click();
 
 			driver.findElement(By.id("btnSearch")).click();
-
+			isAlertPresent();
 			List<WebElement> MovedtoHF = driver.findElements(By
 					.xpath(".//*[@id='imgEHR']"));
 			System.out.println("No.of Appointments Moved to HF: "
@@ -112,13 +139,6 @@ public class appointmentReport extends BaseClass {
 
 	}
 
-	/*@AfterClass
-	public void tearDown() throws Exception {
-		// driver.quit();
-		String verificationErrorString = verificationErrors.toString();
-		if (!"".equals(verificationErrorString)) {
-			fail(verificationErrorString);
-		}
-	}*/
+	
 }
 

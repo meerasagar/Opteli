@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "testNGsuite">
+<listeners>
 
-<suite name="optelitestngsuite">
-<test name="optelitestngtest">
+<!--listener class-name="maven.mavenproject.megneil.opteli.testScripts.utilities.Reporting"/-->
+
+</listeners>
+
+<test name = "testNGtest">
+<parameter name ="browser" value = "chrome"/>
 <classes>
-<class name ="com.test.Megneil.opteli.testcases.appointmentReport"></class>
 
+<class name="com.test.Megneil.opteli.testScripts.appointmentReport"/>
 </classes>
-
 </test>
+
 
 </suite>

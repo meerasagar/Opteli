@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [optelitestngsuite]">
+  <test thread-count="5" name="optelitestngtest(failed)">
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.test.Megneil.opteli.testScripts.appointmentReport">
         <methods>
@@ -11,5 +12,5 @@
         </methods>
       </class> <!-- com.test.Megneil.opteli.testScripts.appointmentReport -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- optelitestngtest(failed) -->
+</suite> <!-- Failed suite [optelitestngsuite] -->
