@@ -84,3 +84,17 @@
 2019-01-02 06:44:33,347 [main] INFO BaseClass - Entered UserName
 2019-01-02 06:44:33,548 [main] INFO BaseClass - Entered Password
 2019-01-02 06:44:39,675 [main] INFO BaseClass - Clicked on Login button
+2019-01-04 07:36:12,715 [main] INFO BaseClass - URL is opened
+2019-01-04 07:36:12,873 [main] INFO BaseClass - Clicked on Login button to enter ClientID
+2019-01-04 07:44:06,470 [main] INFO BaseClass - URL is opened
+2019-01-04 07:44:06,806 [main] INFO BaseClass - Clicked on Login button to enter ClientID
+2019-01-04 07:44:06,979 [main] INFO BaseClass - Entered ClientID
+2019-01-04 07:44:07,617 [main] INFO BaseClass - Entered UserName
+2019-01-04 07:44:07,750 [main] INFO BaseClass - Entered Password
+2019-01-04 07:44:24,145 [main] INFO BaseClass - Clicked on Login button
+2019-01-04 07:49:37,687 [main] INFO BaseClass - URL is opened
+2019-01-04 07:49:37,897 [main] INFO BaseClass - Clicked on Login button to enter ClientID
+2019-01-04 07:49:38,024 [main] INFO BaseClass - Entered ClientID
+2019-01-04 07:49:38,693 [main] INFO BaseClass - Entered UserName
+2019-01-04 07:49:38,824 [main] INFO BaseClass - Entered Password
+2019-01-04 07:49:56,597 [main] INFO BaseClass - Clicked on Login button

@@ -3,7 +3,7 @@
 <suite name = "testNGsuite">
 <listeners>
 
-<!--listener class-name="maven.mavenproject.megneil.opteli.testScripts.utilities.Reporting"/-->
+<listener class-name="com.test.Megneil.opteli.utilities.Reporting"/>
 
 </listeners>
 

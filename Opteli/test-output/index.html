@@ -142,6 +142,9 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;testNGsuite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.test.Megneil.opteli.utilities.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;testNGtest&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
@@ -189,12 +192,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testAppointmentReport')
 data.setCell(0, 2, 'com.test.Megneil.opteli.testScripts.appointmentReport')
-data.setCell(0, 3, 20117);
+data.setCell(0, 3, 59481);
 window.suiteTableData['testNGsuite']= { tableData: data, tableDiv: 'times-div-testNGsuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 20 seconds</span>
+              <span class="suite-total-time">Total running time: 59 seconds</span>
               <div id="times-div-testNGsuite">
               </div> <!-- times-div-testNGsuite -->
             </div> <!-- times-div -->
@@ -227,13 +230,13 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">testAppointmentReport</span>
-                <span class="method-start">4366 ms</span>
+                <span class="method-start">4022 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">tearDown</span>
-                <span class="method-start">24487 ms</span>
+                <span class="method-start">63527 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
