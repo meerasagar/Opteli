@@ -8,8 +8,7 @@ import com.test.Megneil.opteli.pageobjects.LoginPage;
 import org.openqa.selenium.*;
 
 public class appointmentReport extends BaseClass {
-	//public WebDriver driver;
-	// private String baseUrl;
+
 
 	String Day = "1";
 
