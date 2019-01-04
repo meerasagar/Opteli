@@ -8,7 +8,7 @@ import com.test.Megneil.opteli.pageobjects.LoginPage;
 import org.openqa.selenium.*;
 
 public class appointmentReport extends BaseClass {
-
+//It will open appointment report and check whether appointments are moved to HF
 
 	String Day = "1";
 
