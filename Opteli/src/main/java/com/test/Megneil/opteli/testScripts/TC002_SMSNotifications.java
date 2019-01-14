@@ -23,13 +23,13 @@ public class TC002_SMSNotifications extends BaseClass{
 	String firstWinHandle;
 	public String clientid= readconfig.searchClientID();
 	
-	SMSNotificationPage objsms = new SMSNotificationPage(driver);
+	
 
 //@Parameters("browser")
 @Test(priority=1)
 public void openNotificationNewTab()
 {
-	
+	SMSNotificationPage objsms = new SMSNotificationPage(driver);
 	
 	System.out.println("Search ClientID info: "+clientid);
 	
@@ -100,6 +100,7 @@ public void openNotificationNewTab()
 	@Test(priority=2)
 	public void clickUpSaveButton()
 	{
+		SMSNotificationPage objsms = new SMSNotificationPage(driver);
 		try{
 			//driver.findElement(By.xpath("//input[@id='btnSaveUp']")).click();
 			objsms.clickBtnSaveUp();
@@ -126,7 +127,7 @@ public void openNotificationNewTab()
 		@Test(priority=3)
 	public void clickDownSaveButton()
 	{
-try{
+try{SMSNotificationPage objsms = new SMSNotificationPage(driver);
 			
 			//driver.findElement(By.xpath("//input[@id='btnSaveDown']")).click();
 	
@@ -163,7 +164,7 @@ try{
 	
 	@Test(priority=5)
 	public void appointmentConfirmation() throws InterruptedException
-	{
+	{SMSNotificationPage objsms = new SMSNotificationPage(driver);
 	
 	//driver.findElement(By.xpath("//i[@id='arrowAPPT_CNFRM']")).click();
 		
@@ -216,6 +217,7 @@ try{
 	@Test(priority=6)
 	public void appointmentCancellation() throws InterruptedException
 	{
+		SMSNotificationPage objsms = new SMSNotificationPage(driver);
 		//driver.findElement(By.xpath("//i[@id='arrowAPPT_CNCL' and @class='fas fa-arrow-up']")).click();
 		
 		objsms.apptCancelUpArrow();

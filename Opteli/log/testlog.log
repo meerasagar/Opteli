@@ -334,3 +334,10 @@
 2019-01-14 09:06:15,372 - BaseClass -INFO - Entered Password
 2019-01-14 09:06:28,702 - BaseClass -INFO - Clicked on Login button
 2019-01-14 09:06:28,739 - BaseClass -INFO - Login successfull
+2019-01-14 09:27:28,163 - BaseClass -INFO - URL is opened
+2019-01-14 09:27:28,360 - BaseClass -INFO - Clicked on Login button to enter ClientID
+2019-01-14 09:27:28,537 - BaseClass -INFO - Entered ClientID
+2019-01-14 09:27:29,124 - BaseClass -INFO - Entered UserName
+2019-01-14 09:27:29,217 - BaseClass -INFO - Entered Password
+2019-01-14 09:27:43,531 - BaseClass -INFO - Clicked on Login button
+2019-01-14 09:27:43,577 - BaseClass -INFO - Login successfull

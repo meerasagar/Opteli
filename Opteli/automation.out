@@ -334,3 +334,10 @@
 2019-01-14 09:06:15 INFO  BaseClass:88 - Entered Password
 2019-01-14 09:06:28 INFO  BaseClass:93 - Clicked on Login button
 2019-01-14 09:06:28 INFO  BaseClass:111 - Login successfull
+2019-01-14 09:27:28 INFO  BaseClass:72 - URL is opened
+2019-01-14 09:27:28 INFO  BaseClass:79 - Clicked on Login button to enter ClientID
+2019-01-14 09:27:28 INFO  BaseClass:82 - Entered ClientID
+2019-01-14 09:27:29 INFO  BaseClass:85 - Entered UserName
+2019-01-14 09:27:29 INFO  BaseClass:88 - Entered Password
+2019-01-14 09:27:43 INFO  BaseClass:93 - Clicked on Login button
+2019-01-14 09:27:43 INFO  BaseClass:111 - Login successfull
