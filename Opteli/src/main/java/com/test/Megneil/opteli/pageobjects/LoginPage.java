@@ -35,6 +35,10 @@ public class LoginPage {
 	@CacheLookup
 	WebElement btnOutLogin;
 	
+	@FindBy(id="txtSearch")
+	@CacheLookup
+	WebElement txtSearch;
+	
 	public void setClientID(String ClientID)
 	{
 		txtclientID.sendKeys(ClientID);
@@ -59,6 +63,8 @@ public class LoginPage {
 	{
 		btnOutLogin.click();
 	}
+	
+	
 	
 	
 	

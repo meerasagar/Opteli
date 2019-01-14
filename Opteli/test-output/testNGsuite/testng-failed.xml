@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [testNGsuite]">
+  <listeners>
+    <listener class-name="com.test.Megneil.opteli.utilities.Reporting"/>
+  </listeners>
   <test thread-count="5" name="testNGtest(failed)">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.test.Megneil.opteli.testScripts.appointmentReport">
+      <class name="com.test.Megneil.opteli.testScripts.TC002_SMSNotifications">
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="testAppointmentReport"/>
+          <include name="appointmentCancellation"/>
+          <include name="appointmentReminder"/>
+          <include name="appointmentReschedule"/>
+          <include name="postAppointmentThankYou"/>
+          <include name="appointmentNoShow"/>
+          <include name="appointmentConfirmation"/>
+          <include name="toVerifyCheckboxEnabledorDisabled"/>
         </methods>
-      </class> <!-- com.test.Megneil.opteli.testScripts.appointmentReport -->
+      </class> <!-- com.test.Megneil.opteli.testScripts.TC002_SMSNotifications -->
     </classes>
   </test> <!-- testNGtest(failed) -->
 </suite> <!-- Failed suite [testNGsuite] -->

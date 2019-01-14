@@ -10,10 +10,8 @@
 <test name = "testNGtest">
 <parameter name ="browser" value = "chrome"/>
 <classes>
-
-<class name="com.test.Megneil.opteli.testScripts.appointmentReport"/>
+<!--class name="com.test.Megneil.opteli.testScripts.TC001_appointmentReport"/-->
+<class name="com.test.Megneil.opteli.testScripts.TC002_SMSNotifications"/>
 </classes>
 </test>
-
-
 </suite>

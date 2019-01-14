@@ -3,13 +3,23 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.test.Megneil.opteli.testScripts.appointmentReport">
+      <class name="com.test.Megneil.opteli.testScripts.TC002_SMSNotifications">
         <methods>
-          <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="testAppointmentReport"/>
+          <include name="appointmentReminder"/>
+          <include name="appointmentReschedule"/>
+          <include name="appointmentHeader"/>
+          <include name="postAppointmentThankYou"/>
+          <include name="appointmentNoShow"/>
+          <include name="appointmentConfirmation"/>
+          <include name="clickDownSaveButton"/>
+          <include name="tearDown"/>
+          <include name="clickUpSaveButton"/>
+          <include name="openNotificationNewTab"/>
+          <include name="appointmentCancellation"/>
+          <include name="toVerifyCheckboxEnabledorDisabled"/>
         </methods>
-      </class> <!-- com.test.Megneil.opteli.testScripts.appointmentReport -->
+      </class> <!-- com.test.Megneil.opteli.testScripts.TC002_SMSNotifications -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

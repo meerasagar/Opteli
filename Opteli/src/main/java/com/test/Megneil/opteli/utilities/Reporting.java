@@ -52,12 +52,12 @@ public class Reporting extends TestListenerAdapter {
 	{
 		logger = extent.createTest(tr.getName());
 		logger.log(Status.FAIL, MarkupHelper.createLabel(tr.getName(), ExtentColor.RED));
-		String screenshotPath = System.getProperty("user.dir")+"\\Screenshots\\"+tr.getName()+"png";
+		String screenshotPath = System.getProperty("user.dir")+"\\Screenshots\\"+tr.getName()+".png";
 		File f = new  File(screenshotPath);
 		if(f.exists())
 		{
 			try{
-				logger.fail("Screenshot is below:"+ logger.addScreencastFromPath(screenshotPath));
+				logger.fail("Screenshot is below:"+ logger.addScreenCaptureFromPath(screenshotPath));
 			}
 			catch(IOException e)
 			{

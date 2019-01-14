@@ -63,4 +63,10 @@ public Properties pro;
 		String firefoxpath = pro.getProperty("firefoxpath");
 		return firefoxpath;
 	}
+	
+	public String searchClientID()
+	{
+		String clientid= pro.getProperty("clientid");
+	    return clientid;
+	}
 }
