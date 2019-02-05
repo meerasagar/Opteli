@@ -39,6 +39,10 @@ public class LoginPage {
 	@CacheLookup
 	WebElement txtSearch;
 	
+	@FindBy(css="li.last > a.dashboard > img.bottom")
+	@CacheLookup
+	WebElement opteliLogout;
+	
 	public void setClientID(String ClientID)
 	{
 		txtclientID.sendKeys(ClientID);
@@ -62,6 +66,11 @@ public class LoginPage {
 	public void clickOutLogin()
 	{
 		btnOutLogin.click();
+	}
+	
+	public void opteliLogout()
+	{
+		opteliLogout.click();
 	}
 	
 	

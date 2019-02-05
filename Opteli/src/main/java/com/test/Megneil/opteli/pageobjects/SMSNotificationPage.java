@@ -44,7 +44,7 @@ public class SMSNotificationPage {
 	@CacheLookup
 	WebElement btnSaveUp;
 	
-	@FindBy(xpath="//input[@id='btnSaveDown")
+	@FindBy(xpath="//input[@id='btnSaveDown']")
 	@CacheLookup
 	WebElement btnSaveDown;
 	

@@ -1,84 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
-    <line>
-      <![CDATA[PASS]]>
-    </line>
-    <line>
-      <![CDATA[FAIL]]>
-    </line>
   </reporter-output>
-  <suite name="testNGsuite" duration-ms="99122" started-at="2019-01-14T14:27:12Z" finished-at="2019-01-14T14:28:51Z">
+  <suite name="testNGsuite" duration-ms="72357" started-at="2019-01-29T13:37:52Z" finished-at="2019-01-29T13:39:04Z">
     <groups>
     </groups>
-    <test name="testNGtest" duration-ms="99122" started-at="2019-01-14T14:27:12Z" finished-at="2019-01-14T14:28:51Z">
-      <class name="com.test.Megneil.opteli.testScripts.TC002_SMSNotifications">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="setUp" is-config="true" duration-ms="33464" started-at="2019-01-14T14:27:13Z" finished-at="2019-01-14T14:27:46Z">
+    <test name="testNGtest" duration-ms="72357" started-at="2019-01-29T13:37:52Z" finished-at="2019-01-29T13:39:04Z">
+      <class name="com.test.Megneil.opteli.testScripts.CreatePatient">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="setup" is-config="true" duration-ms="17219" started-at="2019-01-29T08:37:52Z" finished-at="2019-01-29T08:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createPatientChart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="createPatientChart" duration-ms="9876" started-at="2019-01-29T08:38:10Z" data-provider="patientdata" finished-at="2019-01-29T08:38:20Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patientmnbm2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test address5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[111-111-1111]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="openNotificationNewTab()[pri:1, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="openNotificationNewTab" duration-ms="10732" started-at="2019-01-14T14:27:46Z" finished-at="2019-01-14T14:27:57Z">
+        </test-method> <!-- createPatientChart -->
+        <test-method status="PASS" signature="createPatientChart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="createPatientChart" duration-ms="9398" started-at="2019-01-29T08:38:20Z" data-provider="patientdata" finished-at="2019-01-29T08:38:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patientmnbm2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test address5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[111-111-1111]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openNotificationNewTab -->
-        <test-method status="PASS" signature="clickUpSaveButton()[pri:2, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="clickUpSaveButton" duration-ms="8652" started-at="2019-01-14T14:27:57Z" finished-at="2019-01-14T14:28:06Z">
-          <reporter-output>
-            <line>
-              <![CDATA[PASS]]>
-            </line>
-            <line>
-              <![CDATA[FAIL]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- clickUpSaveButton -->
-        <test-method status="PASS" signature="clickDownSaveButton()[pri:3, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="clickDownSaveButton" duration-ms="46" started-at="2019-01-14T14:28:06Z" finished-at="2019-01-14T14:28:06Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickDownSaveButton -->
-        <test-method status="PASS" signature="appointmentHeader()[pri:4, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="appointmentHeader" duration-ms="1" started-at="2019-01-14T14:28:06Z" finished-at="2019-01-14T14:28:06Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- appointmentHeader -->
-        <test-method status="PASS" signature="appointmentConfirmation()[pri:5, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="appointmentConfirmation" duration-ms="6190" started-at="2019-01-14T14:28:06Z" finished-at="2019-01-14T14:28:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- appointmentConfirmation -->
-        <test-method status="PASS" signature="appointmentCancellation()[pri:6, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="appointmentCancellation" duration-ms="6215" started-at="2019-01-14T14:28:12Z" finished-at="2019-01-14T14:28:18Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- appointmentCancellation -->
-        <test-method status="PASS" signature="appointmentNoShow()[pri:7, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="appointmentNoShow" duration-ms="6203" started-at="2019-01-14T14:28:18Z" finished-at="2019-01-14T14:28:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- appointmentNoShow -->
-        <test-method status="PASS" signature="appointmentReminder()[pri:8, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="appointmentReminder" duration-ms="6254" started-at="2019-01-14T14:28:24Z" finished-at="2019-01-14T14:28:30Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- appointmentReminder -->
-        <test-method status="PASS" signature="appointmentReschedule()[pri:9, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="appointmentReschedule" duration-ms="6224" started-at="2019-01-14T14:28:30Z" finished-at="2019-01-14T14:28:37Z">
+        </test-method> <!-- createPatientChart -->
+        <test-method status="PASS" signature="createPatientChart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="createPatientChart" duration-ms="9775" started-at="2019-01-29T08:38:29Z" data-provider="patientdata" finished-at="2019-01-29T08:38:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patientmnbm2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test address5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[111-111-1111]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- appointmentReschedule -->
-        <test-method status="PASS" signature="postAppointmentThankYou()[pri:10, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="postAppointmentThankYou" duration-ms="6198" started-at="2019-01-14T14:28:37Z" finished-at="2019-01-14T14:28:43Z">
+        </test-method> <!-- createPatientChart -->
+        <test-method status="PASS" signature="createPatientChart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="createPatientChart" duration-ms="14673" started-at="2019-01-29T08:38:39Z" data-provider="patientdata" finished-at="2019-01-29T08:38:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patientmnbm2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test address5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[111-111-1111]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- postAppointmentThankYou -->
-        <test-method status="PASS" signature="toVerifyCheckboxEnabledorDisabled()[pri:11, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="toVerifyCheckboxEnabledorDisabled" duration-ms="141" started-at="2019-01-14T14:28:43Z" finished-at="2019-01-14T14:28:43Z">
+        </test-method> <!-- createPatientChart -->
+        <test-method status="PASS" signature="createPatientChart(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="createPatientChart" duration-ms="7599" started-at="2019-01-29T08:38:53Z" data-provider="patientdata" finished-at="2019-01-29T08:39:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patientmnbm2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test address5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[111-111-1111]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- toVerifyCheckboxEnabledorDisabled -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.Megneil.opteli.testScripts.TC002_SMSNotifications@553f17c]" name="tearDown" is-config="true" duration-ms="8487" started-at="2019-01-14T14:28:43Z" finished-at="2019-01-14T14:28:51Z">
+        </test-method> <!-- createPatientChart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.Megneil.opteli.testScripts.CreatePatient@49993335]" name="tearDown" is-config="true" duration-ms="2868" started-at="2019-01-29T08:39:01Z" finished-at="2019-01-29T08:39:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.test.Megneil.opteli.testScripts.TC002_SMSNotifications -->
+      </class> <!-- com.test.Megneil.opteli.testScripts.CreatePatient -->
     </test> <!-- testNGtest -->
   </suite> <!-- testNGsuite -->
 </testng-results>

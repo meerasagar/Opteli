@@ -341,3 +341,592 @@
 2019-01-14 09:27:29 INFO  BaseClass:88 - Entered Password
 2019-01-14 09:27:43 INFO  BaseClass:93 - Clicked on Login button
 2019-01-14 09:27:43 INFO  BaseClass:111 - Login successfull
+2019-01-14 09:35:28 INFO  BaseClass:74 - URL is opened
+2019-01-14 09:35:29 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-14 09:35:29 INFO  BaseClass:84 - Entered ClientID
+2019-01-14 09:35:30 INFO  BaseClass:87 - Entered UserName
+2019-01-14 09:35:30 INFO  BaseClass:90 - Entered Password
+2019-01-14 09:35:37 INFO  BaseClass:95 - Clicked on Login button
+2019-01-14 09:35:37 INFO  BaseClass:113 - Login successfull
+2019-01-14 09:38:01 INFO  BaseClass:74 - URL is opened
+2019-01-14 09:38:01 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-14 09:38:02 INFO  BaseClass:84 - Entered ClientID
+2019-01-14 09:38:02 INFO  BaseClass:87 - Entered UserName
+2019-01-14 09:38:03 INFO  BaseClass:90 - Entered Password
+2019-01-14 09:38:09 INFO  BaseClass:95 - Clicked on Login button
+2019-01-14 09:38:09 INFO  BaseClass:113 - Login successfull
+2019-01-14 09:39:20 INFO  BaseClass:74 - URL is opened
+2019-01-14 09:39:21 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-14 09:39:21 INFO  BaseClass:84 - Entered ClientID
+2019-01-14 09:39:21 INFO  BaseClass:87 - Entered UserName
+2019-01-14 09:39:22 INFO  BaseClass:90 - Entered Password
+2019-01-14 09:39:28 INFO  BaseClass:95 - Clicked on Login button
+2019-01-14 09:39:28 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:30:19 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:30:19 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:30:20 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:30:20 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:30:20 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:30:27 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:30:27 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:34:30 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:34:30 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:34:30 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:34:31 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:34:31 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:34:38 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:34:38 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:35:56 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:35:57 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:35:57 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:35:58 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:35:58 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:36:04 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:36:04 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:41:34 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:41:35 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:41:35 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:41:36 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:41:36 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:41:42 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:41:42 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:47:35 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:47:36 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:47:36 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:47:37 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:47:37 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:47:43 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:47:43 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:52:55 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:52:56 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:52:56 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:52:57 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:52:57 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:53:03 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:53:03 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:55:14 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:55:14 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:55:14 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:55:15 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:55:15 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:55:21 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:55:21 INFO  BaseClass:113 - Login successfull
+2019-01-16 07:59:41 INFO  BaseClass:74 - URL is opened
+2019-01-16 07:59:41 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 07:59:41 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 07:59:42 INFO  BaseClass:87 - Entered UserName
+2019-01-16 07:59:42 INFO  BaseClass:90 - Entered Password
+2019-01-16 07:59:49 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 07:59:50 INFO  BaseClass:113 - Login successfull
+2019-01-16 08:05:23 INFO  BaseClass:74 - URL is opened
+2019-01-16 08:05:23 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 08:05:23 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 08:05:24 INFO  BaseClass:87 - Entered UserName
+2019-01-16 08:05:24 INFO  BaseClass:90 - Entered Password
+2019-01-16 08:05:31 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 08:05:31 INFO  BaseClass:113 - Login successfull
+2019-01-16 08:08:45 INFO  BaseClass:74 - URL is opened
+2019-01-16 08:08:45 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 08:08:46 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 08:08:46 INFO  BaseClass:87 - Entered UserName
+2019-01-16 08:08:46 INFO  BaseClass:90 - Entered Password
+2019-01-16 08:08:53 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 08:08:53 INFO  BaseClass:113 - Login successfull
+2019-01-16 08:16:55 INFO  BaseClass:74 - URL is opened
+2019-01-16 08:16:55 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 08:16:55 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 08:16:56 INFO  BaseClass:87 - Entered UserName
+2019-01-16 08:16:56 INFO  BaseClass:90 - Entered Password
+2019-01-16 08:17:03 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 08:17:03 INFO  BaseClass:113 - Login successfull
+2019-01-16 08:19:57 INFO  BaseClass:74 - URL is opened
+2019-01-16 08:19:57 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 08:19:57 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 08:19:58 INFO  BaseClass:87 - Entered UserName
+2019-01-16 08:19:58 INFO  BaseClass:90 - Entered Password
+2019-01-16 08:20:04 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 08:20:04 INFO  BaseClass:113 - Login successfull
+2019-01-16 08:55:03 INFO  BaseClass:74 - URL is opened
+2019-01-16 08:55:03 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 08:55:04 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 08:55:04 INFO  BaseClass:87 - Entered UserName
+2019-01-16 08:55:05 INFO  BaseClass:90 - Entered Password
+2019-01-16 08:55:11 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 08:55:11 INFO  BaseClass:113 - Login successfull
+2019-01-16 08:57:43 INFO  BaseClass:74 - URL is opened
+2019-01-16 08:57:44 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 08:57:44 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 08:57:45 INFO  BaseClass:87 - Entered UserName
+2019-01-16 08:57:45 INFO  BaseClass:90 - Entered Password
+2019-01-16 08:57:51 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 08:57:51 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:03:01 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:03:02 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:03:02 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:03:02 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:03:03 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:03:10 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:03:10 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:08:14 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:08:14 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:08:14 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:08:15 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:08:15 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:08:22 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:08:22 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:18:01 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:18:01 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:18:01 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:18:02 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:18:02 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:18:09 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:18:09 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:22:13 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:22:14 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:22:14 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:22:15 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:22:15 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:22:22 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:22:22 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:24:30 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:24:31 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:24:31 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:24:32 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:24:32 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:24:38 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:24:38 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:27:07 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:27:07 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:27:07 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:27:08 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:27:08 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:27:14 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:27:14 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:30:23 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:30:24 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:30:24 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:30:24 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:30:25 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:30:31 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:30:31 INFO  BaseClass:113 - Login successfull
+2019-01-16 09:34:46 INFO  BaseClass:74 - URL is opened
+2019-01-16 09:34:46 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-16 09:34:46 INFO  BaseClass:84 - Entered ClientID
+2019-01-16 09:34:47 INFO  BaseClass:87 - Entered UserName
+2019-01-16 09:34:47 INFO  BaseClass:90 - Entered Password
+2019-01-16 09:34:53 INFO  BaseClass:95 - Clicked on Login button
+2019-01-16 09:34:53 INFO  BaseClass:113 - Login successfull
+2019-01-17 01:48:58 INFO  BaseClass:74 - URL is opened
+2019-01-17 01:48:59 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 01:48:59 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 01:48:59 INFO  BaseClass:87 - Entered UserName
+2019-01-17 01:48:59 INFO  BaseClass:90 - Entered Password
+2019-01-17 01:49:08 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 01:49:08 INFO  BaseClass:113 - Login successfull
+2019-01-17 01:56:37 INFO  BaseClass:74 - URL is opened
+2019-01-17 01:56:38 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 01:56:38 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 01:56:39 INFO  BaseClass:87 - Entered UserName
+2019-01-17 01:56:39 INFO  BaseClass:90 - Entered Password
+2019-01-17 01:56:45 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 01:56:45 INFO  BaseClass:113 - Login successfull
+2019-01-17 03:51:27 INFO  BaseClass:74 - URL is opened
+2019-01-17 03:51:27 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 03:51:28 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 03:51:28 INFO  BaseClass:87 - Entered UserName
+2019-01-17 03:51:28 INFO  BaseClass:90 - Entered Password
+2019-01-17 03:51:35 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 03:51:35 INFO  BaseClass:113 - Login successfull
+2019-01-17 04:25:04 INFO  BaseClass:74 - URL is opened
+2019-01-17 04:25:05 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 04:25:05 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 04:25:06 INFO  BaseClass:87 - Entered UserName
+2019-01-17 04:25:06 INFO  BaseClass:90 - Entered Password
+2019-01-17 04:25:53 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 04:25:53 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:18:47 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:18:47 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:18:48 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:18:48 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:18:49 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:18:55 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:18:55 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:29:18 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:29:19 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:29:19 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:29:20 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:29:20 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:29:26 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:29:26 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:33:13 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:33:13 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:33:14 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:33:14 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:33:14 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:33:20 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:33:21 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:35:41 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:35:41 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:35:41 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:35:42 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:35:42 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:35:48 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:35:48 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:37:46 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:37:46 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:37:47 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:37:47 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:37:47 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:37:54 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:37:54 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:44:51 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:44:51 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:44:51 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:44:52 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:44:52 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:44:58 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:44:58 INFO  BaseClass:113 - Login successfull
+2019-01-17 06:47:17 INFO  BaseClass:74 - URL is opened
+2019-01-17 06:47:17 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 06:47:17 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 06:47:18 INFO  BaseClass:87 - Entered UserName
+2019-01-17 06:47:18 INFO  BaseClass:90 - Entered Password
+2019-01-17 06:47:24 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 06:47:24 INFO  BaseClass:113 - Login successfull
+2019-01-17 07:28:45 INFO  BaseClass:74 - URL is opened
+2019-01-17 07:28:45 INFO  BaseClass:81 - Clicked on Login button to enter ClientID
+2019-01-17 07:28:45 INFO  BaseClass:84 - Entered ClientID
+2019-01-17 07:28:46 INFO  BaseClass:87 - Entered UserName
+2019-01-17 07:28:46 INFO  BaseClass:90 - Entered Password
+2019-01-17 07:29:32 INFO  BaseClass:95 - Clicked on Login button
+2019-01-17 07:29:32 INFO  BaseClass:113 - Login successfull
+2019-01-17 07:35:48 INFO  BaseClass:74 - URL is opened
+2019-01-17 07:35:49 INFO  BaseClass:39 - Clicked on Login button to enter ClientID
+2019-01-17 07:35:49 INFO  BaseClass:42 - Entered ClientID
+2019-01-17 07:35:50 INFO  BaseClass:45 - Entered UserName
+2019-01-17 07:35:50 INFO  BaseClass:48 - Entered Password
+2019-01-17 07:35:56 INFO  BaseClass:53 - Clicked on Login button
+2019-01-17 07:35:56 INFO  BaseClass:71 - Login successfull
+2019-01-17 07:43:35 INFO  BaseClass:74 - URL is opened
+2019-01-17 07:49:19 INFO  BaseClass:74 - URL is opened
+2019-01-17 07:52:13 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:03:51 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:28:26 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:32:05 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:38:54 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:39:19 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:41:17 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:44:33 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:48:51 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:49:31 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:51:10 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:53:30 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:55:42 INFO  BaseClass:74 - URL is opened
+2019-01-17 08:57:10 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:00:53 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:23:34 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:24:38 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:25:56 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:28:35 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:28:38 INFO  BaseClass:14 - Clicked on Login button to enter ClientID
+2019-01-17 09:28:38 INFO  BaseClass:17 - Entered ClientID
+2019-01-17 09:28:39 INFO  BaseClass:20 - Entered UserName
+2019-01-17 09:28:39 INFO  BaseClass:23 - Entered Password
+2019-01-17 09:28:45 INFO  BaseClass:28 - Clicked on Login button
+2019-01-17 09:30:12 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:31:50 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:33:10 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:34:24 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:39:57 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:47:54 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:50:02 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:50:21 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-17 09:50:21 INFO  BaseClass:21 - Entered ClientID
+2019-01-17 09:50:21 INFO  BaseClass:24 - Entered UserName
+2019-01-17 09:50:22 INFO  BaseClass:27 - Entered Password
+2019-01-17 09:50:28 INFO  BaseClass:32 - Clicked on Login button
+2019-01-17 09:50:58 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-17 09:50:59 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-17 09:50:59 INFO  BaseClass:21 - Entered ClientID
+2019-01-17 09:51:00 INFO  BaseClass:24 - Entered UserName
+2019-01-17 09:51:00 INFO  BaseClass:27 - Entered Password
+2019-01-17 09:51:47 INFO  BaseClass:74 - URL is opened
+2019-01-17 09:52:05 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-18 06:29:08 INFO  BaseClass:74 - URL is opened
+2019-01-18 06:29:29 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-18 06:47:10 INFO  BaseClass:74 - URL is opened
+2019-01-18 06:47:27 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-18 06:57:22 INFO  BaseClass:74 - URL is opened
+2019-01-18 06:57:26 INFO  BaseClass:18 - Clicked on Login button to enter ClientID
+2019-01-18 07:32:22 INFO  BaseClass:74 - URL is opened
+2019-01-18 07:32:22 INFO  BaseClass:40 - Clicked on Login button to enter ClientID
+2019-01-18 07:32:23 INFO  BaseClass:43 - Entered ClientID
+2019-01-18 07:32:23 INFO  BaseClass:46 - Entered UserName
+2019-01-18 07:32:24 INFO  BaseClass:49 - Entered Password
+2019-01-18 07:32:31 INFO  BaseClass:54 - Clicked on Login button
+2019-01-18 07:32:31 INFO  BaseClass:72 - Login successfull
+2019-01-18 07:32:34 INFO  BaseClass:93 - Entered ClientID to search
+2019-01-18 07:32:34 INFO  BaseClass:97 - Clicked on Search
+2019-01-18 07:38:33 INFO  BaseClass:74 - URL is opened
+2019-01-18 07:38:33 INFO  BaseClass:40 - Clicked on Login button to enter ClientID
+2019-01-18 07:38:34 INFO  BaseClass:43 - Entered ClientID
+2019-01-18 07:38:34 INFO  BaseClass:46 - Entered UserName
+2019-01-18 07:38:35 INFO  BaseClass:49 - Entered Password
+2019-01-18 07:38:41 INFO  BaseClass:54 - Clicked on Login button
+2019-01-18 07:38:41 INFO  BaseClass:72 - Login successfull
+2019-01-18 07:38:44 INFO  BaseClass:93 - Entered ClientID to search
+2019-01-18 07:38:44 INFO  BaseClass:97 - Clicked on Search
+2019-01-28 01:31:50 INFO  BaseClass:74 - URL is opened
+2019-01-28 01:31:50 INFO  BaseClass:38 - Clicked on Login button to enter ClientID
+2019-01-28 01:31:51 INFO  BaseClass:41 - Entered ClientID
+2019-01-28 01:31:51 INFO  BaseClass:44 - Entered UserName
+2019-01-28 01:31:51 INFO  BaseClass:47 - Entered Password
+2019-01-28 01:32:01 INFO  BaseClass:52 - Clicked on Login button
+2019-01-28 01:32:01 INFO  BaseClass:70 - Login successfull
+2019-01-28 01:32:04 INFO  BaseClass:88 - Entered ClientID to search
+2019-01-28 01:32:04 INFO  BaseClass:92 - Clicked on Search
+2019-01-28 01:32:07 INFO  BaseClass:98 - Clicked on Patient List to go inside the client
+2019-01-28 01:32:10 INFO  BaseClass:104 - Clicked on Main Menu
+2019-01-28 01:32:10 INFO  BaseClass:109 - Clicked on Settings Sub Menu
+2019-01-28 01:32:11 INFO  BaseClass:112 - Clicked on Notifications(SMS) link
+2019-01-28 01:41:19 INFO  BaseClass:74 - URL is opened
+2019-01-28 01:41:19 INFO  BaseClass:38 - Clicked on Login button to enter ClientID
+2019-01-28 01:41:19 INFO  BaseClass:41 - Entered ClientID
+2019-01-28 01:41:20 INFO  BaseClass:44 - Entered UserName
+2019-01-28 01:41:20 INFO  BaseClass:47 - Entered Password
+2019-01-28 01:41:27 INFO  BaseClass:52 - Clicked on Login button
+2019-01-28 01:41:27 INFO  BaseClass:70 - Login successfull
+2019-01-28 01:41:30 INFO  BaseClass:88 - Entered ClientID to search
+2019-01-28 01:41:30 INFO  BaseClass:92 - Clicked on Search
+2019-01-28 01:41:33 INFO  BaseClass:98 - Clicked on Patient List to go inside the client
+2019-01-28 01:43:21 INFO  BaseClass:74 - URL is opened
+2019-01-28 01:48:01 INFO  BaseClass:74 - URL is opened
+2019-01-28 01:52:03 INFO  BaseClass:74 - URL is opened
+2019-01-28 03:42:45 INFO  BaseClass:74 - URL is opened
+2019-01-28 03:42:48 INFO  BaseClass:38 - Clicked on Login button to enter ClientID
+2019-01-28 03:42:48 INFO  BaseClass:41 - Entered ClientID
+2019-01-28 03:42:49 INFO  BaseClass:44 - Entered UserName
+2019-01-28 03:42:49 INFO  BaseClass:47 - Entered Password
+2019-01-28 03:42:55 INFO  BaseClass:52 - Clicked on Login button
+2019-01-28 03:42:55 INFO  BaseClass:70 - Login successfull
+2019-01-28 03:42:58 INFO  BaseClass:88 - Entered ClientID to search
+2019-01-28 03:42:58 INFO  BaseClass:92 - Clicked on Search
+2019-01-28 03:43:02 INFO  BaseClass:98 - Clicked on Patient List to go inside the client
+2019-01-28 03:43:05 INFO  BaseClass:104 - Clicked on Main Menu
+2019-01-28 03:43:05 INFO  BaseClass:109 - Clicked on Settings Sub Menu
+2019-01-28 03:43:05 INFO  BaseClass:112 - Clicked on Notifications(SMS) link
+2019-01-28 04:34:36 INFO  BaseClass:74 - URL is opened
+2019-01-28 05:37:07 INFO  BaseClass:74 - URL is opened
+2019-01-28 05:40:50 INFO  BaseClass:74 - URL is opened
+2019-01-28 05:45:39 INFO  BaseClass:74 - URL is opened
+2019-01-28 05:49:57 INFO  BaseClass:72 - URL is opened
+2019-01-28 05:49:57 INFO  BaseClass:78 - Clicked on Login button to enter ClientID
+2019-01-28 05:49:58 INFO  BaseClass:81 - Entered ClientID
+2019-01-28 05:49:58 INFO  BaseClass:84 - Entered UserName
+2019-01-28 05:49:58 INFO  BaseClass:87 - Entered Password
+2019-01-28 05:50:06 INFO  BaseClass:92 - Clicked on Login button
+2019-01-28 06:14:35 INFO  BaseClass:72 - URL is opened
+2019-01-28 06:15:38 INFO  BaseClass:72 - URL is opened
+2019-01-28 06:17:35 INFO  BaseClass:72 - URL is opened
+2019-01-28 06:23:24 INFO  BaseClass:72 - URL is opened
+2019-01-28 06:26:47 INFO  BaseClass:71 - URL is opened
+2019-01-28 06:54:29 INFO  BaseClass:71 - URL is opened
+2019-01-28 06:54:31 INFO  BaseClass:19 - Clicked on Login button to enter ClientID
+2019-01-28 07:10:09 INFO  BaseClass:40 - Browser Opened
+2019-01-28 07:11:30 INFO  BaseClass:40 - Browser Opened
+2019-01-28 07:11:34 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:11:35 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:11:35 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:11:35 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:11:36 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:11:39 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:11:41 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:11:42 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:11:42 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:11:42 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:11:46 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:11:47 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:11:47 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:11:48 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:11:48 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:11:51 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:11:53 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:11:53 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:11:53 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:11:53 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:11:57 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:11:58 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:11:58 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:11:59 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:11:59 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:12:02 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:12:04 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:12:04 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:12:04 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:12:05 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:12:08 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:12:09 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:12:09 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:12:10 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:12:10 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:12:14 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:12:14 INFO  BaseClass:94 - Loggedout from Opteli
+2019-01-28 07:14:20 INFO  BaseClass:40 - Browser Opened
+2019-01-28 07:14:23 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:24 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:24 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:24 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:25 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:14:28 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:14:31 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:31 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:32 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:32 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:14:35 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:14:36 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:36 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:37 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:37 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:14:40 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:14:41 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:42 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:42 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:42 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:14:46 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:14:47 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:47 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:48 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:48 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:14:51 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:14:52 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:52 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:53 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:53 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:14:56 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:14:58 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:14:58 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:14:59 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:14:59 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:15:03 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:15:03 INFO  BaseClass:94 - Loggedout from Opteli
+2019-01-28 07:16:22 INFO  BaseClass:40 - Browser Opened
+2019-01-28 07:16:25 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:26 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:26 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:16:27 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:16:27 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:16:30 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:16:33 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:33 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:16:34 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:16:34 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:16:37 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:16:38 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:39 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:16:39 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:16:39 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:16:42 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:16:44 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:44 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:16:45 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:16:45 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:16:48 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:16:49 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:49 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:16:50 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:16:50 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:16:53 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:16:55 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:16:55 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:16:56 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:16:56 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:16:59 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:17:00 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:17:00 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:17:01 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:17:01 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:17:04 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:22:46 INFO  BaseClass:40 - Browser Opened
+2019-01-28 07:22:50 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:22:50 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:22:50 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:22:51 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:22:51 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:22:55 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:22:57 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:22:57 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:22:58 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:22:58 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:23:01 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:23:03 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:23:03 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:23:03 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:23:04 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:23:07 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:23:08 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:23:08 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:23:09 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:23:09 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:23:12 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:23:14 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:23:14 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:23:15 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:23:15 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:23:18 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:23:19 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:23:19 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:23:20 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:23:20 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:23:24 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:23:25 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:23:25 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:23:26 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:23:26 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:23:29 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:25:48 INFO  BaseClass:40 - Browser Opened
+2019-01-28 07:25:51 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:25:52 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:25:52 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:25:53 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:25:53 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:25:56 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:25:59 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:25:59 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:26:00 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:26:00 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:26:03 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:26:04 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:26:04 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:26:05 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:26:05 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:26:08 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:26:09 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:26:10 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:26:10 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:26:10 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:26:14 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:26:15 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:26:15 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:26:15 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:26:16 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:26:19 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:26:20 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:26:20 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:26:21 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:26:21 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:26:24 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 07:26:25 INFO  BaseClass:54 - Clicked on Login button to enter ClientID
+2019-01-28 07:26:26 INFO  BaseClass:57 - Entered ClientID
+2019-01-28 07:26:26 INFO  BaseClass:60 - Entered UserName
+2019-01-28 07:26:26 INFO  BaseClass:63 - Entered Password
+2019-01-28 07:26:30 INFO  BaseClass:69 - Clicked on loggin
+2019-01-28 08:07:29 INFO  BaseClass:40 - Browser Opened
+2019-01-28 08:07:32 INFO  BaseClass:48 - Clicked on Login button to enter ClientID
+2019-01-28 08:13:18 INFO  BaseClass:71 - URL is opened
+2019-01-28 08:14:34 INFO  BaseClass:71 - URL is opened
+2019-01-28 08:19:15 INFO  BaseClass:72 - URL is opened
+2019-01-28 08:19:18 INFO  BaseClass:77 - Clicked on Login button to enter ClientID
+2019-01-28 08:19:18 INFO  BaseClass:80 - Entered ClientID
+2019-01-28 08:19:19 INFO  BaseClass:83 - Entered UserName
+2019-01-28 08:19:19 INFO  BaseClass:86 - Entered Password
+2019-01-28 08:19:25 INFO  BaseClass:92 - Clicked on loggin

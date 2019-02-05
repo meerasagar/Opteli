@@ -14,7 +14,6 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -28,6 +27,7 @@ public class BaseClass {
 	ReadConfig readconfig = new ReadConfig();
 	
 	public WebDriver driver;
+	//SMSNotificationPage objsms = new SMSNotificationPage(driver);
 	public static Logger logger;
 	public String baseURL = readconfig.getApplication();
 	public String ClientID = readconfig.getClientID();
@@ -71,53 +71,9 @@ public class BaseClass {
 				
 				logger.info("URL is opened");
 				
-				
-				
-				LoginPage lp = new LoginPage(driver);
-				
-				lp.clickOutLogin();
-				logger.info("Clicked on Login button to enter ClientID");
-				
-				lp.setClientID(ClientID);
-				logger.info("Entered ClientID");
+				Thread.sleep(3000);
 
-				lp.settxtUsername(Username);
-				logger.info("Entered UserName");
-				
-				lp.settxtPassword(password);
-				logger.info("Entered Password");
-				
-				Thread.sleep(3000);
-				
-				lp.clickSubmit();
-				logger.info("Clicked on Login button");
-				
-			
-				
-				
-				
-				try {
-					Alert alert = driver.switchTo().alert();
-					alert.accept();
-				} catch (Exception e) {
-					System.out.println(e);
 				}
-				
-	            System.out.println("Title:"+driver.getTitle());
-				
-				if(driver.getTitle().contains("Advantrix"))
-				{
-					Assert.assertTrue(true);
-					logger.info("Login successfull");
-				}
-				else
-				{
-					captureScreen(driver,"testAppointmentReport");
-					Assert.assertTrue(false);
-					logger.info("Login Failed");
-				}
-				Thread.sleep(3000);
-	}
 
 	
 	

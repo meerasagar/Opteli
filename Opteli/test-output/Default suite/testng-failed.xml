@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.test.Megneil.opteli.testScripts.TC002_SMSNotifications">
+      <class name="com.test.Megneil.opteli.testScripts.CreatePatient">
         <methods>
-          <include name="setUp"/>
-          <include name="appointmentReminder"/>
-          <include name="appointmentReschedule"/>
-          <include name="appointmentHeader"/>
-          <include name="postAppointmentThankYou"/>
-          <include name="appointmentNoShow"/>
-          <include name="appointmentConfirmation"/>
-          <include name="clickDownSaveButton"/>
-          <include name="tearDown"/>
-          <include name="clickUpSaveButton"/>
-          <include name="openNotificationNewTab"/>
-          <include name="appointmentCancellation"/>
-          <include name="toVerifyCheckboxEnabledorDisabled"/>
+          <include name="setup"/>
+          <include name="createPatientChart"/>
         </methods>
-      </class> <!-- com.test.Megneil.opteli.testScripts.TC002_SMSNotifications -->
+      </class> <!-- com.test.Megneil.opteli.testScripts.CreatePatient -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

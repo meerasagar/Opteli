@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [testNGsuite]">
-  <listeners>
-    <listener class-name="com.test.Megneil.opteli.utilities.Reporting"/>
-  </listeners>
-  <test thread-count="5" name="testNGtest(failed)">
-    <parameter name="browser" value="chrome"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.test.Megneil.opteli.testScripts.TC002_SMSNotifications">
+      <class name="com.test.Megneil.opteli.testScripts.CreatePatient">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="appointmentCancellation"/>
-          <include name="appointmentReminder"/>
-          <include name="appointmentReschedule"/>
-          <include name="postAppointmentThankYou"/>
-          <include name="appointmentNoShow"/>
-          <include name="appointmentConfirmation"/>
-          <include name="toVerifyCheckboxEnabledorDisabled"/>
+          <include name="setup"/>
+          <include name="createPatientChart"/>
         </methods>
-      </class> <!-- com.test.Megneil.opteli.testScripts.TC002_SMSNotifications -->
+      </class> <!-- com.test.Megneil.opteli.testScripts.CreatePatient -->
     </classes>
-  </test> <!-- testNGtest(failed) -->
-</suite> <!-- Failed suite [testNGsuite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
