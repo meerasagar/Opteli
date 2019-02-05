@@ -27,7 +27,7 @@ public class CreatePatient {
 		String viewPatient;
 		public static Logger logger;
 		
-		
+		//Before class
 		@BeforeClass
 		public void setup() throws InterruptedException {
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\MNT026\\workspace\\Opteli\\Drivers\\chromedriver.exe");
